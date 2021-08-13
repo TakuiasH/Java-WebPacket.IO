@@ -1,7 +1,10 @@
 # Java-WebPacket.IO
 
-#### To use the source code, put this dependencies:
+This project is an open-source Java implementation of WebPacket.IO server. Based on WebSocket server framework.
 
+Checkout [Example](https://github.com/TakuiasH/Java-WebPacket.IO/tree/main/WebPacket.IO/src/main/java/example)
+
+#### To use the source code, put this dependencies:
 	<dependencies>
 		<dependency>
 			<groupId>org.java-websocket</groupId>
